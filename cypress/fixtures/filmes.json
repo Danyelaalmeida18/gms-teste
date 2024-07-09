@@ -1,0 +1,25 @@
+[
+    {
+        "titulo": "Matrix" ,
+        "ano": 1999,
+        "descricao": "Matrix é um filme de ação"
+    },
+
+    {
+        "titulo": "Furiosa" ,
+        "ano": 2024,
+        "descricao": "Uma Saga Mad Max é um filme de ficção científica pós-apocalíptico"
+    },
+
+    {
+        "titulo": "Harry Potter" ,
+        "ano": 2001 ,
+        "descricao": "A saga Harry Potter conta a história de um menino bruxo"
+    },
+
+    {
+        "titulo": "Deadpool" ,
+        "ano": 2016 ,
+        "descricao": "Um mercenário mentalmente instável."
+    }
+]
